@@ -10,8 +10,8 @@ A custom Linux distribution built from scratch following the Linux From Scratch 
 ## Progress
 - [x] Chapter 1 — Introduction
 - [x] Chapter 2 — Preparing the Host System
-- [ ] Chapter 3 — Packages and Patches
-- [ ] Chapter 4 — Final Preparations
+- [x] Chapter 3 — Packages and Patches
+- [x] Chapter 4 — Final Preparations
 - [ ] Chapter 5 — Compiling a Cross-Toolchain
 - [ ] Chapter 6 — Cross Compiling Temporary Tools
 - [ ] Chapter 7 — Entering Chroot and Building Additional Tools
