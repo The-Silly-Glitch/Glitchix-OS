@@ -14,7 +14,7 @@ A custom Linux distribution built from scratch following the Linux From Scratch 
 - [x] Chapter 4 — Final Preparations
 - [x] Chapter 5 — Compiling a Cross-Toolchain
 - [x] Chapter 6 — Cross Compiling Temporary Tools
-- [ ] Chapter 7 — Entering Chroot and Building Additional Tools
+- [x] Chapter 7 — Entering Chroot and Building Additional Tools
 - [ ] Chapter 8 — Installing Basic System Software
 - [ ] Chapter 9 — System Configuration
 - [ ] Chapter 10 — Making the LFS System Bootable
